@@ -1,0 +1,11 @@
+{
+    "name": "edu/proyecto-crud-paginacion",
+    "autoload": {
+        "psr-4": {
+            "Edu\\ProyectoCrudPaginacion\\": "src/"
+        }
+    },
+    "require": {
+        "tecnickcom/tcpdf": "^6.6"
+    }
+}
