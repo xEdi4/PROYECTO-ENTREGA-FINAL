@@ -2,9 +2,11 @@ USUARIOS VÁLIDOS PARA EL LOGIN:
 
 usuario: usuario1
 contraseña: usuario1
+rol: 0
 
 usuario: usuario2
 contraseña: usuario2
+rol: 1
 
 ***************
 
