@@ -1,3 +1,15 @@
+USUARIOS VÁLIDOS PARA EL LOGIN:
+
+usuario: usuario1
+contraseña: usuario1
+
+usuario: usuario2
+contraseña: usuario2
+
+
+
+
+
 Mejoras: 
 
 1-  Mostrar en detalles y en modificar la opción de siguiente y anterior. (solucionados los errores)
